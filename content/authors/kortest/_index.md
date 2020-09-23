@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Moritz Korte-Stapf
+title: Moritz Korte-Stapff
 
 # Is this the primary user of the site?
 superuser: false
