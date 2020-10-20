@@ -51,7 +51,7 @@ url_code: https://github.com/fontaine618/700-Project
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ./publication/caughtlooking/slides.pdf
+url_slides: ./publication/ncaamb/slides.pdf
 url_source: ''
 url_video: ''
 
