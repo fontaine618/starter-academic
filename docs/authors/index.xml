@@ -5,12 +5,21 @@
     <link>https://www.fontaine618.github.io/authors/</link>
       <atom:link href="https://www.fontaine618.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Simon Fontaine 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 20:16:27 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Simon Fontaine 2020</copyright><lastBuildDate>Mon, 19 Oct 2020 20:16:27 -0500</lastBuildDate>
     <image>
       <url>https://www.fontaine618.github.io/media/icon_512.png</url>
       <title>Authors</title>
       <link>https://www.fontaine618.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Simon Fontaine</title>
+      <link>https://www.fontaine618.github.io/author/simon-fontaine/</link>
+      <pubDate>Mon, 19 Oct 2020 20:16:27 -0500</pubDate>
+      <guid>https://www.fontaine618.github.io/author/simon-fontaine/</guid>
+      <description>&lt;p&gt;I currently am a second year Ph.D student in Statistics at the University of Michigan. My curent research, under the supervision of Prof. Ji Zhu, involves latent variable models and variational inference applied to network data. I previously worked as a Data Science intern at the Ubisoft Montreal User Research Lab on online skill rating algorithms using approximate Bayesian inference. I did a master’s thesis at the University of Montreal on an adaptive Multiple-Try Metropolis algorithm aimed at sampling from complex distributions.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Brian Manzo</title>
@@ -29,20 +38,11 @@
     </item>
     
     <item>
-      <title>Moritz Korte-Stapf</title>
-      <link>https://www.fontaine618.github.io/author/moritz-korte-stapf/</link>
+      <title>Moritz Korte-Stapff</title>
+      <link>https://www.fontaine618.github.io/author/moritz-korte-stapff/</link>
       <pubDate>Wed, 01 Apr 2020 20:16:27 -0500</pubDate>
-      <guid>https://www.fontaine618.github.io/author/moritz-korte-stapf/</guid>
+      <guid>https://www.fontaine618.github.io/author/moritz-korte-stapff/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Simon Fontaine</title>
-      <link>https://www.fontaine618.github.io/author/simon-fontaine/</link>
-      <pubDate>Wed, 01 Apr 2020 20:16:27 -0500</pubDate>
-      <guid>https://www.fontaine618.github.io/author/simon-fontaine/</guid>
-      <description>&lt;p&gt;I currently am a second year Ph.D student in Statistics at the University of Michigan. My curent research, under the supervision of Prof. Ji Zhu, involves latent variable models and variational inference applied to network data. I previously worked as a Data Science intern at the Ubisoft Montreal User Research Lab on online skill rating algorithms using approximate Bayesian inference. I did a master’s thesis at the University of Montreal on an adaptive Multiple-Try Metropolis algorithm aimed at sampling from complex distributions.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -131,6 +131,16 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://www.fontaine618.github.io/author/timothy-park/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Nelson Bighetti</title>
+      <link>https://www.fontaine618.github.io/author/nelson-bighetti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fontaine618.github.io/author/nelson-bighetti/</guid>
+      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
     </item>
     
     <item>
