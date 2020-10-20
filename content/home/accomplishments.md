@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Department of Mathematics and Statistics, University of Montreal"
   organization_url = "https://dms.umontreal.ca"
+  title = "Dean's Honor List"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Department of Mathematics and Statistics, University of Montreal"
+  organization_url = "https://dms.umontreal.ca"
   title = "Jean-Denis Award"
   url = ""
   certificate_url = ""
@@ -35,6 +45,16 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2020-05-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Department of Mathematics and Statistics, McGill University"
+  organization_url = "https://www.mcgill.ca/mathstat/"
+  title = "First Class Honour's"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-05-01"
   date_end = ""
   description = ""
 
