@@ -49,6 +49,26 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
+  organization = "Department of Statistics, University of Michigan"
+  organization_url = "https://lsa.umich.edu/stats"
+  title = "Outstanding GSI Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-03-16"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Department of Statistics, University of Michigan"
+  organization_url = "https://lsa.umich.edu/stats"
+  title = "Stats PhD Visit Day Poster Session Best Presentation"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-03-16"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Department of Mathematics and Statistics, McGill University"
   organization_url = "https://www.mcgill.ca/mathstat/"
   title = "First Class Honour's"

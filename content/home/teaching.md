@@ -15,6 +15,7 @@ weight = 35
 
 ## Graduate Student Instructor
 
+- STATS 601 Statistical Learning (Michigan, fall 2020)
 - STATS 600 Regression Analysis (Michigan, fall 2020)
 - STATS 250 Introduction to Statistics and Data Analysis (Michigan, winter 2020)
 

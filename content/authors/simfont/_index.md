@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I currently am a second year Ph.D student in Statistics at the University of Michigan. My curent research, under the supervision of Prof. Ji Zhu, involves latent variable models and variational inference applied to network data. I previously worked as a Data Science intern at the Ubisoft Montreal User Research Lab on online skill rating algorithms using approximate Bayesian inference. I did a master’s thesis at the University of Montreal on an adaptive Multiple-Try Metropolis algorithm aimed at sampling from complex distributions. 
+I'm a third year Ph.D. student in Statistics at the University of Michigan. My current research, under the supervision of Prof. Ji Zhu, involves latent variable models and variational inference applied to network data. I previously worked as a Data Science intern at the Ubisoft Montreal User Research Lab on online skill rating algorithms using approximate Bayesian inference. I did a master’s thesis at the University of Montreal on an adaptive Multiple-Try Metropolis algorithm aimed at sampling from complex distributions. 

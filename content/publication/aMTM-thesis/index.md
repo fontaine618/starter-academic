@@ -2,7 +2,6 @@
 title: "Adaptive Multiple-Try MCMC Algorithms"
 authors: 
 - simfont
-- mbedard
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
